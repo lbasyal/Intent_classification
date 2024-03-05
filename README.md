@@ -9,6 +9,9 @@ This repository is dedicated to intent-based user instruction classification for
 
 Feel free to explore the notebook and datasets to understand the process and results of the intent classification experiment. If you have any questions or suggestions, please don't hesitate to reach out.
 
+## Kaggle Notebook
+[https://www.kaggle.com/code/lochanbasyal/intent-classification](https://www.kaggle.com/code/lochanbasyal/intent-classification)
+
 ## Paper
 
 Basyal, L., & Gaudel, B. (2024). Augmenting Automation: Intent-Based User Instruction Classification with Machine Learning. ArXiv. /abs/2403.01242
