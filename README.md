@@ -10,8 +10,8 @@ This repository is dedicated to intent-based user instruction classification for
 Feel free to explore the notebook and datasets to understand the process and results of the intent classification experiment. If you have any questions or suggestions, please don't hesitate to reach out.
 
 ## Kaggle Notebook
-Code: [https://www.kaggle.com/code/lochanbasyal/intent-classification](https://www.kaggle.com/code/lochanbasyal/intent-classification)
-Dataset: [https://www.kaggle.com/datasets/lochanbasyal/home-automation-intent-classification](https://www.kaggle.com/datasets/lochanbasyal/home-automation-intent-classification)
+- Code: [https://www.kaggle.com/code/lochanbasyal/intent-classification](https://www.kaggle.com/code/lochanbasyal/intent-classification)
+- Dataset: [https://www.kaggle.com/datasets/lochanbasyal/home-automation-intent-classification](https://www.kaggle.com/datasets/lochanbasyal/home-automation-intent-classification)
 
 ## Paper
 
