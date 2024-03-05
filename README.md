@@ -8,3 +8,8 @@ This repository is dedicated to intent-based user instruction classification for
 - `intent_datasets.csv`: This file contains the sample datasets used in the experiments.
 
 Feel free to explore the notebook and datasets to understand the process and results of the intent classification experiment. If you have any questions or suggestions, please don't hesitate to reach out.
+
+## Paper
+
+Basyal, L., & Gaudel, B. (2024). Augmenting Automation: Intent-Based User Instruction Classification with Machine Learning. ArXiv. /abs/2403.01242
+[https://arxiv.org/abs/2403.01242](https://arxiv.org/abs/2403.01242)
